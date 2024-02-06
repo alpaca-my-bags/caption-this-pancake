@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Defunktocat, a octocat with slick hair and a nice guitar
 
 ![defunktocat](https://octodex.github.com/images/defunktocat.png)
 {: .center}
