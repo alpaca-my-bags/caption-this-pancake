@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: February 7, 2024
+- Class Date: February 88888888, 2024
 - Facilitator: @allthedoll
 
 ## Class Resources
